@@ -1,4 +1,4 @@
-#Disclaimer!!! This game has a lot of bugs. LMK so I can fix them.
+# Disclaimer!!! This game has a lot of bugs. LMK so I can fix them.
 
 # How to download
 
